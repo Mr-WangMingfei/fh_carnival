@@ -17,7 +17,7 @@
 <key>needs-shine</key>
 <false/>
 <key>url</key>
-<string>http://miap.cc:8576/other/fhcarnival/AppUpdate/ar512.png</string>
+<string>http://miap.cc:8576/other/fhcarnival/FH-Carnival/ar512.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -25,7 +25,7 @@
 <key>needs-shine</key>
 <false/>
 <key>url</key>
-<string>http://miap.cc:8576/other/fhcarnival/AppUpdate/ar57.png</string>
+<string>http://miap.cc:8576/other/fhcarnival/FH-Carnival/ar57.png</string>
 </dict>
 </array>
 <key>metadata</key>
