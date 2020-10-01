@@ -33,13 +33,13 @@
 <key>bundle-identifier</key>
 <string>cn.com.fh.ar</string>
 <key>bundle-version</key>
-<string>10.0</string>
+<string>0.4</string>
 <key>kind</key>
 <string>software</string>
 <key>suttitle</key>
-<string>Fiberhome</string>
+<string>嘉年华</string>
 <key>title</key>
-<string>Fiberhome</string>
+<string>嘉年华</string>
 </dict>
 </dict>
 </array>
